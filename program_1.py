@@ -1,6 +1,5 @@
-def hello_world():
-    # Update the message below to say "Hello World", 
-    # Python cares about white space, so watch your indentation.
-    print('Hello ...')
+#Programmer: Timothy Pickering
+#Date written: 1/19/2025
+#Title: Hello World Program
+print('Hello World!')
 
-hello_world()
